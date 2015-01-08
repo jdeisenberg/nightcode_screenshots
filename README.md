@@ -3,6 +3,10 @@ nightcode_screenshots
 
 Screenshots of all the skins for Nightcode
 
+To start nightcode with a particular skin, use:
+
+<pre>java -jar nightcode-<em>version</em>-standalone.jar --skin <em>_name_</em></pre>
+
 challenger-deep
 ![challenger-deep](dark/challenger-deep.png)
 
